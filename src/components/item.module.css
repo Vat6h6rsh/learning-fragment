@@ -1,0 +1,11 @@
+.hj-item {
+  background-color: rgb(240, 96, 156);
+}
+.hj-item-span {
+  color: rgb(82, 188, 234);
+  font-weight: 600;
+  font-style: initial;
+}
+.button {
+  float: right;
+}

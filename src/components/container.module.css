@@ -1,0 +1,9 @@
+.containr {
+  border: 2px solid plum; /* Added 'solid' to the border property */
+  margin: 15px;
+  width: 50%;
+  border-radius: 5px;
+  min-width: 300px;
+  padding: 10px; /* Ensure there is padding to see the container effect */
+  display: block; /* Ensure it behaves as a block element */
+}
